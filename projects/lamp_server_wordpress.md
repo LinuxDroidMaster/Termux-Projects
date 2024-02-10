@@ -4,6 +4,8 @@ Here are the commands you need to configure a LAMP server in Termux. This will a
 
 All this process is documented in the following video: [How to install a LAMP web server on Termux](https://www.youtube.com/watch?v=3NKR_SGlTtY)
 
+![](./images/lamp_server/wordpress1.png)
+![](./images/lamp_server/wordpress2.png)
 
 ## 1. Setup Apache
 1. Install Apache: 

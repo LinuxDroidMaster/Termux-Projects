@@ -1,9 +1,11 @@
 # Torrent Server on Android with Termux (Transmission)
 
-
 Here are the commands you need to configure a Torrent server in Termux. This will allow you to host your own Torrent server with a web interface so you can upload your torrents files or magnet links from anywhere in your network.
 
 All this process is documented in the following video: [Pending]()
+
+![](./images/torrent_server/torrent1.png)
+![](./images/torrent_server/torrent2.png)
 
 ## 1. Installing Transmission
 
