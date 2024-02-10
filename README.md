@@ -6,7 +6,7 @@ Welcome to Awesome Termux Projects! This repository is a collection of cool proj
 
 [Termux](https://termux.dev/en/) is a powerful terminal emulator for Android that brings the power of Linux to your smartphone or tablet. With Termux, you can access a full Linux command-line environment on your Android device, enabling you to run various programs and scripts right from your pocket!
 
-## Get Started 🎉
+## 🎉 Get Started 
 
 Ready to dive into the world of Termux projects? Follow these simple steps to get started:
 
@@ -16,7 +16,7 @@ Ready to dive into the world of Termux projects? Follow these simple steps to ge
 
 # 🔥 Projects 🔥
 - [LAMP (Apache - MySQL - PHP) Web Server: Set your own WordPress page](./projects/lamp_server_wordpress.md)
-- Torrent Server: Pending
+- [Torrent Server with web interface using Transmission](./projects/torrent_server.md)
 
 
 ## 🤝 Contributing 
