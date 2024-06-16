@@ -15,14 +15,17 @@ Ready to dive into the world of Termux projects? Follow these simple steps to ge
 2. **Choose your project!**: Take a look at all the projects in this repository or feel free to add anything you find useful!
 
 # 🔥 Projects 🔥
-- [LAMP (Apache - MySQL - PHP) Web Server: Set your own WordPress page](./projects/lamp_server_wordpress.md)
-- [Torrent Server with web interface using Transmission](./projects/torrent_server.md)
+
+- [🐋 Docker on Android](./projects/docker_android.md)
+
+- [🌐 LAMP (Apache - MySQL - PHP) Web Server: Set your own WordPress page](./projects/lamp_server_wordpress.md)
+- [⬇️ Torrent Server with web interface using Transmission](./projects/torrent_server.md)
 
 ### Programming
 
-- [How to program in PYTHON using Android](https://youtu.be/gD3ZS69z2os?si=dxGFOoHkvEG_a4jk)
+- [🐍 How to program in PYTHON using Android](https://youtu.be/gD3ZS69z2os?si=dxGFOoHkvEG_a4jk)
 
-- [How to program in JAVASCRIPT using Android](https://youtu.be/hpCsKbkm9QM?si=k_zpf_NdcXXTehY4)
+- [🖥️ How to program in JAVASCRIPT using Android](https://youtu.be/hpCsKbkm9QM?si=k_zpf_NdcXXTehY4)
 
 
 ## 🤝 Contributing 
