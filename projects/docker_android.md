@@ -1,6 +1,6 @@
 # How to run Docker on Android
 
-All the process is described in the following repository: https://github.com/AntonyZ89/docker-qemu-arm 
+All the process is described in the following repository: https://github.com/AntonyZ89/docker-qemu-arm and in my [YOUTUBE VIDEO](https://youtu.be/vSUZ1xEhHfo?feature=shared)
 
 ## 🛠️ Prerequisites and tips
 
