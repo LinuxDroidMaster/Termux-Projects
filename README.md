@@ -18,7 +18,7 @@ Ready to dive into the world of Termux projects? Follow these simple steps to ge
 
 - [🐋 Docker on Android](./projects/docker_android.md)
 
-- [🖥️ Homelab server: Turn your Android device into a server](./projects/homelab_server.md)
+- [🖥️ HomeLab server: Turn your Android device into a server](./projects/homelab_server.md)
 
 - [🌐 LAMP (Apache - MySQL - PHP) Web Server: Set your own WordPress page](./projects/lamp_server_wordpress.md)
 

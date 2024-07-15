@@ -1,4 +1,4 @@
-# 🖥️ Homelab server: Turn your Android device into a server
+# 🖥️ HomeLab server: Turn your Android device into a server
 
 All this process is documented in the following [video - pending]()
 
