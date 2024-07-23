@@ -134,6 +134,8 @@ mount -o uid=1000,gid=1000,umask=0000 /dev/block/sda1 HDD/
 
 Tip: You can mount the HDD inside a chroot environment like I show on the video so we can share it with other services like `Samba`, `Transmission`, etc.
 
+- [How to setup a samba server](https://pimylifeup.com/raspberry-pi-samba/)
+
 ---  
 
 <br>
