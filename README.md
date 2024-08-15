@@ -28,6 +28,8 @@ Ready to dive into the world of Termux projects? Follow these simple steps to ge
 
 - [🐍 How to program in PYTHON using Android](https://youtu.be/gD3ZS69z2os?si=dxGFOoHkvEG_a4jk)
 
+- [🤖 How to run a TELEGRAM BOT in Android]()
+
 - [🌐 How to program in JAVASCRIPT using Android](https://youtu.be/hpCsKbkm9QM?si=k_zpf_NdcXXTehY4)
 
 

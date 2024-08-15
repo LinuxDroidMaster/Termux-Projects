@@ -12,7 +12,6 @@ All this process is documented in the following [video](https://www.youtube.com/
 * 🤖 [Start Termux on boot](#termux-boot)
 
 
-
 <br>
 
 ---  
