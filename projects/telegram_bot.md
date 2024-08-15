@@ -2,6 +2,8 @@
 
 All this process is documented in the following [video - pending]()
 
+![](/projects/images/telegram_bot/telegram_bot_running.png)
+
 # 📚 Index
 
 * 🏁 [First steps](#first-steps)
@@ -81,4 +83,15 @@ pip install python-telegram-bot yt-dlp
 - **Run the BOT**
 ```
 python telegram_bot.py
+```
+
+- **Run the BOT in background**
+```
+python telegram_bot.py &
+```
+
+- **Check and kill background process**
+```
+ps aux | grep python # Get the PID
+pkill PID
 ```
