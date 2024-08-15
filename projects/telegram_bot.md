@@ -93,5 +93,5 @@ python telegram_bot.py &
 - **Check and kill background process**
 ```
 ps aux | grep python # Get the PID
-pkill PID
+pkill PID or kill 9 PID
 ```
