@@ -24,7 +24,10 @@ Ready to dive into the world of Termux projects? Follow these simple steps to ge
 
 - [⬇️ Torrent Server with web interface using Transmission](./projects/torrent_server.md)
 
+
 ### Programming
+
+- [🌍 Next.js Web Development in Termux: Build & Deploy a Website](https://youtu.be/5jLo39VhsNU)
 
 - [🐍 How to program in PYTHON using Android](https://youtu.be/gD3ZS69z2os?si=dxGFOoHkvEG_a4jk)
 
